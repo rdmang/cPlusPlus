@@ -1,4 +1,6 @@
 # cPlusPlus
 the usual implementation of a simple class
-.h file : interface 
-.cpp file : implementation
+
+/h.h file : interface 
+
+/h.cpp file : implementation
